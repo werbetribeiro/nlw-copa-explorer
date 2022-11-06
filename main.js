@@ -58,3 +58,15 @@ document.querySelector("#cards").innerHTML =
     createGame("gana", "12:00", "uruguai") +
       createGame("camaroes", "16:00", "brasil")
   )
+
+function changeThemeColor2() {
+  document.querySelector("body").className = ""
+}
+
+function changeThemeColor1() {
+  document.querySelector("body").className = "blue"
+}
+
+function changeThemeColor() {
+  document.querySelector("body").className = "green"
+}
