@@ -39,4 +39,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Werber Ribeiro com a Grande ajuda da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Werbet Ribeiro com a Grande ajuda da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
